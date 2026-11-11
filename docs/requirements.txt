@@ -41,7 +41,7 @@ scipy==1.14.1
 setuptools==75.1.0 ; python_full_version >= '3.12'
 six==1.16.0
 snowballstemmer==2.2.0
-soupsieve==2.6
+soupsieve==2.9
 sphinx==8.1.0
 sphinxcontrib-applehelp==2.0.0
 sphinxcontrib-bibtex==2.6.3
@@ -55,5 +55,5 @@ tqdm==4.66.5
 trimesh==4.4.9
 typing-extensions==4.12.2
 tzdata==2024.2
-urllib3==2.2.3
+urllib3==2.8.0
 xxhash==3.5.0
